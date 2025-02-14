@@ -1,3 +1,7 @@
+```bash
+npm run dev
+```
+
 ### Commands
 
 ## 1. git add .
